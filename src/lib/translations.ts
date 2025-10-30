@@ -38,6 +38,8 @@ export const translations = {
     services_liturgy_desc: "ሳምንታዊ የመንፈሳዊ ስብሰባ እና የአምልኮ አገልግሎት",
     services_baptism_title: "ሥርዓተ ጥምቀትና ጋብቻ",
     services_baptism_desc: "የክርስትና ጥምቀት እና የቅዱስ ጋብቻ ሥርዓቶች",
+    services_matrimony_title: "ሥርዓተ ጋብቻ",
+    services_matrimony_desc: "የቅዱስ ጋብቻ ሥርዓት እና በረከት",
     services_funeral_title: "የፍትሐት አገልግሎት",
     services_funeral_desc: "ለወገኖቻችን የመጨረሻ ሥርዓት አገልግሎት",
     services_lessons_title: "የሃይማኖት ትምህርቶች ይሰጠሉ",
